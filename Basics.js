@@ -1,6 +1,7 @@
 console.log("Hello World")
 console.log("Test by LARAIB")
 
+//let cannot be defined again but can be redeclared
 let i=0
 while(i<10){
     i++
